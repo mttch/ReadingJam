@@ -1,2 +1,2 @@
-# readyjam
+# ReadingJam
 Reading Raspberry Pi Jam
